@@ -1,3 +1,9 @@
+<video width="640" height="360" controls>
+  <source src="vid/demo.mp4" type="video/mov">
+</video>
+
+
+
 # NewsFactChecker
 
 A Chrome extension that identifies and corrects factual inaccuracies in online articles, with a focus on numerical claims.
