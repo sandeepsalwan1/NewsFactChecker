@@ -1,9 +1,11 @@
 <video width="640" height="360" controls>
-  <source src="vid/demo.mp4" type="video/mov">
+  <source src="vid/demo.mov" type="video/mov">
 </video>
 
 
 
+
+[Watch the demo video](vid/demo.mov)
 # NewsFactChecker
 
 A Chrome extension that identifies and corrects factual inaccuracies in online articles, with a focus on numerical claims.
